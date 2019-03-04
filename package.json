@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kweiberth/react-todo-list.git"
+    "url": "https://github.com/hakimks/react-todo-list.git"
   },
-  "author": "Kurt Weiberth",
+  "author": "Kawesi Hakim",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.4.5",
@@ -19,7 +19,10 @@
     "babel-preset-react": "^6.3.13",
     "express": "^4.13.4",
     "react": "^0.14.7",
-    "react-dom": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10",
     "webpack": "^1.12.13"
   }
 }
